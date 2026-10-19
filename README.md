@@ -9,6 +9,11 @@ working with a product owner and presented at a public open house.
 **Tech:** Vue 2 · Vuex · Vue Router · Axios · ASP.NET Core 3.1 Web API · C# ·
 SQL Server · JWT auth · Google Maps Embed API · OpenWeather API
 
+<p>
+  <img src="screenshots/league-page.png" alt="League page with leaderboard, scheduled match and pending invite" width="520">
+  <img src="screenshots/course-search-map.png" alt="Scheduling a match and searching for golf courses on an embedded Google Map" width="310">
+</p>
+
 ## Features
 - Register / log in with JWT-secured routes
 - Create leagues at a course and invite players (accept / decline invites)
